@@ -15,3 +15,7 @@ Plenty more syntax and introduction can be found in [Apple's official Swift docu
 1. Git clone this repo
 2. Open `SwiftSyntax.playground` in Xcode 7.
 3. Play!
+
+
+### Thanks
+Big thanks to the lovely iOS-Developers slack group for feedback, and corrections, especially @aranasaurus, @loganwright and @bshega
