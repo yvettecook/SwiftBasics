@@ -24,7 +24,7 @@ var weaponsSpeech = "Our \(numberOfWeapons) weapons are fear, and surprise, and 
 //: These are used to work with values that might be missing. An optional value either contains a value or contains nil (no value) to indicate that a value is missing.
 
 var optionalWeapon : String? = nil
-weaponsSpeech = "Our \(numberOfWeapons++) weapons are fear, and surprise, and ruthless efficiency \(optionalWeapon!)"
+weaponsSpeech = "Our \(numberOfWeapons++) weapons are fear, and surprise, and ruthless efficiency \(optionalWeapon)"
 optionalWeapon = "and an almost fanatical devotion to the Pope"
 weaponsSpeech = "Our \(numberOfWeapons++) weapons are fear, and surprise, and ruthless efficiency \(optionalWeapon!)"
 
