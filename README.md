@@ -7,8 +7,8 @@ Plenty more syntax and introduction can be found in [Apple's official Swift docu
 [This reference cheat sheet](https://github.com/iwasrobbed/Swift-CheatSheet) also contains tonnes of useful stuff.
 
 ### Requirements:
-Xcode 7 (beta) - download [here](https://developer.apple.com/xcode/downloads/)
-Swift 2
+* Xcode 7 (beta) - download [here](https://developer.apple.com/xcode/downloads/)
+* Swift 2
 
 ### To Use:
 
